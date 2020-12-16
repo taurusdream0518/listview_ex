@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ListView_Ex</string>
+
+    <string-array name="city">
+        <item>台北</item>
+        <item>桃園</item>
+        <item>宜蘭</item>
+        <item>彰化</item>
+        <item>屏東</item>
+
+    </string-array>
+    <string-array name="result">
+        <item>台北</item>
+        <item>桃園</item>
+        <item>宜蘭</item>
+        <item>彰化</item>
+        <item>屏東</item>
+    </string-array>
+</resources>
